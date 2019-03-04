@@ -1,0 +1,181 @@
+body {
+	background:url(bg.png);
+	background-size: 1.25%;
+}
+header {
+  position: fixed;
+  left : 0;
+  top: 0;
+  height: 50px;
+  width: 100%;
+  background-color: #4dff4d;
+  z-index: 1;
+}
+header > span {
+	color:crimson;
+	margin-right:75%;
+	margin-left:5%;
+  font-size: 24pt;
+  font-style:italic;
+  font-weight:bold;
+}
+header > div {
+	position: absolute;
+	right:10%;
+	top:0;
+	color:crimson;
+  	font-size: 24pt;
+  	font-style: italic;
+  	font-weight:bold;
+}
+header > img {
+	border: 2px solid crimson;
+}
+.buttons {
+  position: fixed;
+  right:0;
+  top:0;
+  background-color: #4dff4d;
+  color: crimson;
+  padding: 4px 16px;
+  text-align: center;
+  display: inline;
+  font-size: 25pt;
+  border-width: 2px;
+  border-color: crimson;
+}
+.likes {
+  position: relative;
+  top:0;
+  background-color: #4dff4d;
+  color: crimson;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline;
+  font-size: 10pt;
+  border-width: 2px;
+  border-color: crimson;
+}
+.wall{
+	background-color: white;
+	position: relative;
+	top:0;
+	left:20%;
+	width:60%;
+	margin-top:50px;
+	border-right:2px solid #4dff4d;
+	border-left:2px solid #4dff4d;
+	border-top:2px solid #4dff4d;
+	background-image:url("bg.png");
+	background-size: 10%;
+	
+
+}
+.wall>ul {
+	margin-bottom: 0;
+}
+.post{
+	position:relative;
+	left:15%;
+	width: 75%;
+	border: 3px solid #4dff4d;
+	margin-top: 10px;
+	display: inline-block;
+	
+	background-color:#cce6ff;
+}
+
+.picture{
+	position: relative;
+	top:10px;
+	left:10px;
+	width: 48%;
+	height: 96%
+	margin-bottom: 10px;
+	border:2px solid #4dff4d;
+}
+.userpic {
+	position: fixed;
+	left:91%;
+	height:46px;
+}
+li > button {
+	bottom: 10px;
+	left: 10px;
+	position: relative;
+  display: inline;
+  background-color: transparent;
+  border-color: transparent;
+}
+button > img {
+height: 10%;
+width: 10*9/16%;
+
+}
+footer{
+	position: relative;
+  	left: 0;
+  	bottom:0;
+  	width: 100%;
+  	height: 50px;
+   background-color: #4dff4d;
+    
+}
+footer > div {
+	color: crimson;
+    text-align: center;
+    font-size: 18pt;
+    font-weight: bold;
+    font-style: italic;
+}
+.post-info{
+	position: absolute;
+	top:0;
+	left:50%;
+	right:0;
+	bottom: 30%;
+    overflow: auto;
+    padding: 5px; 
+   }
+ .showMorePhotoes {
+ 	position: relative;
+ 	left:45%;
+ 	bottom:5%;
+ 	border: 2px solid #4dff4d;
+ 	padding: 10px 20px;
+ 	background-color:#cce6ff;
+ 	color:crimson;
+ 	text-align:center;
+ 	align-self: center;
+ 	font-size:24pt;
+ }
+ .search-button {
+display:inline-block;
+position: fixed;
+left:25%;
+top:0.5%;
+height: 40px;
+width: 40px;
+background-color: transparent;
+  border-color: transparent;
+ }
+.search-button > img{
+height: 120%;
+width: 140%;
+ }
+.add-button {
+display:inline-block;
+position: fixed;
+left:30%;
+top:0.5%;
+height: 40px;
+width: 40px;
+background-color: transparent;
+border-color: transparent;
+}
+.add-button > img{
+height: 120%;
+width: 250%;
+ }
+ @media screen and (max-width: 360px) {
+}
