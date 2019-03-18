@@ -6,8 +6,8 @@ header {
   position: fixed;
   left : 0;
   top: 0;
-  height: 7%;
-  width: 100%;
+  height:50px;
+  width:100%;
   background-color: #4dff4d;
   z-index: 1;
 }
@@ -44,7 +44,7 @@ header > img {
   border-width: 2px;
   border-color: crimson;
 }
-.likes {
+/*.likes {
   position: relative;
   top:0;
   background-color: #4dff4d;
@@ -55,12 +55,12 @@ header > img {
   font-size: 10pt;
   border-width: 2px;
   border-color: crimson;
-}
+}*/
 .wall{
 	background-color: white;
 	position: relative;
 	top:0;
-	left:20%;
+	margin-left:20%;
 	width:60%;
 	margin-top:50px;
 	border-right:2px solid #4dff4d;
@@ -76,12 +76,11 @@ header > img {
 }
 .post{
 	position:relative;
-	left:15%;
-	width: 75%;
+	left:12%;
+	width:70%;
 	border: 3px solid #4dff4d;
 	margin-top: 10px;
 	display: inline-block;
-	
 	background-color:#cce6ff;
 }
 
@@ -177,5 +176,17 @@ border-color: transparent;
 height: 120%;
 width: 250%;
  }
- @media screen and (max-width: px) {
+ @media screen and (max-width: 360px) {
+ 	li > button {
+		bottom: 10px;
+		left: 10px;
+		position: relative;
+    	display: inline;
+    	background-color: transparent;
+    	border-color: transparent;
+	}
+	button > img {
+		height: 5%;
+		width: 5*9/16%;
+	}
 }
