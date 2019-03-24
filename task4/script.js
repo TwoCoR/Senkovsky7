@@ -3,7 +3,7 @@
 		id: '1',
 		description: 'Hey guys! <br /> Here you can se me preparing to make love to this beautiful can of "Baltika7" beer after a long day in university. <br />' +
 							'It was a good day for sure. The beer was actually not so good, but beer is still beer so i was happy for sure.',
-		createdAt: new Date('2018-02-23T23:00:00'),
+		createdAt: new Date('2019-03-05T23:00:00'),
 		hashtags:['beer-and-suit','baltika7'],
    		author: 'Иванов Иван',
    		photoLink: 'images/me.jpg',
@@ -13,7 +13,7 @@
 		id: '2',
 		description: 'Hey guys, here is my invention on how to use properly a can of beer. Make a hole with a knife,' +
 		' chug the beer and with simple moves with your knife you can make a good dish to make your "Rolton" there. Use this lifehack and share this idea with your friends!',
-		createdAt: new Date('2018-02-23T23:00:00'),
+		createdAt: new Date('2019-03-05T00:00'),
 		hashtags:['lifehack','baltika9'],
 		author: 'Petya Petrov',
 		photoLink: 'images/baltika9.jpg',
@@ -22,7 +22,7 @@
 	{
 		id: '3',
 		description: "Love is a great feeling, but only if it's mutual",
-		createdAt: new Date('2018-02-23T23:00:00'),
+		createdAt: new Date('2019-03-05T00:00'),
 		hashtags:['meme'],
 		author: 'Petya Petrov',
 		photoLink: 'images/loveis.jpg',
@@ -31,7 +31,7 @@
 	{
 		id: '4',
 		description: 'Hey guys, look at me and my wife flexing this sunday at our vilage house!',
-		createdAt: new Date('2018-02-23T23:00:00'),
+		createdAt: new Date('2019-03-05T00:00'),
 		hashtags:[],
 		author: 'Petya Petrov',
 		photoLink: 'images/flex.jpg',
@@ -40,7 +40,7 @@
 	{
 		id: '5',
 		description: 'Just me sitting so hadsome drinking beer.',
-		createdAt: new Date('2018-02-23T23:00:00'),
+		createdAt: new Date('2019-03-05T00:00'),
 		hashtags:['beer-and-suit','baltika7'],
 		author: 'Petya Petrov',
 		photoLink: 'images/baltika7.jpg',
@@ -49,7 +49,7 @@
 	{
 		id: '6',
 		description: 'Math problems',
-		createdAt: new Date('2018-02-23T23:00:00'),
+		createdAt: new Date('2019-03-05T00:00'),
 		hashtags:['meme'],
 		author: 'Petya Petrov',
 		photoLink: 'images/math.jpg',
@@ -58,7 +58,7 @@
 	{
 		id: '7',
 		description: 'Igor Nikolaev drinking for love',
-		createdAt: new Date('2018-02-23T23:00:00'),
+		createdAt: new Date('2019-03-05T00:00'),
 		hashtags:[],
 		author: 'Petya Petrov',
 		photoLink: 'images/party.jpg',
@@ -67,7 +67,7 @@
 	{
 		id: '8',
 		description: 'very nice billboard',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-10T00:00'),
 		hashtags:['lifehack'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/PIVO.jpg',
@@ -76,7 +76,7 @@
 	{
 		id: '9',
 		description: ' Taking selfi before a great party with my pals',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-05T00:00'),
 		hashtags:['beer-and-suit'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/selfi.jpg',
@@ -85,7 +85,7 @@
 	{
 		id: '10',
 		description: 'Just a cool guy enjoying the sunset ',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-10T00:00'),
 		hashtags:['meme','baltika3'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/sunset.jpg',
@@ -94,7 +94,7 @@
 	{
 		id: '11',
 		description: 'Just a cool billboard',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-10T00:00'),
 		hashtags:['lifehack'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/billboard2.jpg',
@@ -103,7 +103,7 @@
 	{
 		id: '12',
 		description: 'run for your life...',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-10T00:00'),
 		hashtags:['meme'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/running.jpg',
@@ -112,7 +112,7 @@
 	{
 		id: '13',
 		description: 'Guestion of the eternity',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-05T00:00'),
 		hashtags:['meme'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/skekspire.jpg',
@@ -121,7 +121,7 @@
 	{
 		id: '14',
 		description: 'My totemic animal',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-05T00:00'),
 		hashtags:['meme'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/sqrl.jpg',
@@ -130,7 +130,7 @@
 	{
 		id: '15',
 		description: 'Fitness',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-05T00:00'),
 		hashtags:['meme'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/fitness.png',
@@ -139,7 +139,7 @@
 	{
 		id: '16',
 		description: 'the second another*',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-05T00:00'),
 		hashtags:['meme'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/another.jpg',
@@ -148,7 +148,7 @@
 	{
 		id: '17',
 		description: 'Great result',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-05T00:00'),
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/holdmybeer.jpg',
 		rating:918,
@@ -156,7 +156,7 @@
 	{
 		id: '18',
 		description: 'the nightmare of the party',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-05T00:00'),
 		hashtags:['meme'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/lastmanstanding.jpg',
@@ -165,7 +165,7 @@
 	{
 		id: '19',
 		description: 'When you have too much to do for UP',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-05T00:00'),
 		hashtags:['meme'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/sad.jpg',
@@ -174,7 +174,7 @@
 	{
 		id: '20',
 		description: 'the last means the worst',
-		createdAt: new Date ('2019-03-10T21:14:00'),
+		createdAt: new Date ('2019-03-05T00:00'),
 		hashtags:['meme'],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/nightmare.jpg',
@@ -186,15 +186,13 @@
 
     let filter = undefined;
 
-    let array = photoPosts;
-
     let sortByDate = (o1, o2) => {
         return Date.parse(o1.createdAt) - Date.parse(o2.createdAt);
     };
 
     let getPhotoPosts = (skip = 0, top = 10, filter) => {
 
-        let tmp = array;
+        let tmp = photoPosts;
         if(typeof skip !== "number" || typeof top !== "number") {
             return [];
         }
@@ -205,7 +203,6 @@
         if (filter) {
             if(filter.author && (typeof filter.author !== "string" || filter.author.length === 0) ||
                 filter.createdAt && !filter.createdAt instanceof Date) {
-
                 return [];
             }
 
@@ -220,7 +217,6 @@
                     return Date.parse(item.createdAt) === Date.parse(filter.createdAt);
                 })
             }
-
             if(filter.hashtags){
                 tmp = tmp.filter((item) => {
                     if(typeof item.hashtags === "undefined") {
@@ -231,16 +227,14 @@
                     })
                 })
             }
-
-
+            
         }
-
-
         return tmp.slice(skip, skip + top);
+        
     }
     let getPhotoPost = (id) => {
-        if(typeof id == "string" && id.valueOf() >= 0){
-            return array.find((item) => item.id == id);
+        if(typeof id == "string"){
+            return photoPosts.find((item) => item.id == id);
         }
         return -1;
     }
@@ -251,7 +245,7 @@
         if(post.id === "" || typeof post.id !== "string") {
             return false;
         }
-        if (post.description === "" || typeof post.description !== "string")
+        if (post.description === "" || typeof post.description !== "string" || post.description.length === 0)
             return false;
         if (!(post.createdAt instanceof Date))
             return false;
@@ -265,8 +259,8 @@
     }
     let addPhotoPost = (post) => {
         if(validatePost(post)) {
-            array.push(post);
-            array.sort(sortByDate);
+            photoPosts.push(post);
+            photoPosts.sort(sortByDate);
             return true;
         }
         else {
@@ -274,25 +268,29 @@
         }
     }
     let editPhotoPost = (id, post) => {
-        let index = array.findIndex(item => item.id === id);
+        let index = photoPosts.findIndex(item => item.id === id);
         if(typeof editPhotoPost === 'undefined') {
             return false;
         }
-
-        if(post.description) {
-            array[index].description = post.description;
-        }
-        if(post.photoLink) {
-            array[index].photoLink = post.photoLink;
-        }
-        if(post.hashtags) {
-            array[index].hashtags = post.hashtags;
-        }
-        return true;
+		if(validatePost(post)) {
+        	if(post.description) {
+            	photoPosts[index].description = post.description;
+        	}
+        	if(post.photoLink) {
+            	photoPosts[index].photoLink = post.photoLink;
+        	}
+        	if(post.hashtags) {
+            	photoPosts[index].hashtags = post.hashtags;
+        	}
+        	return true;
+    	}
+    	else {
+    		return false;
+    	}
     }
     let removePhotoPost = (id) => {
         if(typeof id == "string" && id.valueOf() >= 0) {
-            array.splice(array.findIndex(item => item.id === id), 1);
+            photoPosts.splice(photoPosts.findIndex(item => item.id === id), 1);
             return true;
         }
         return false;
@@ -332,8 +330,8 @@ console.log( postModule.getPhotoPosts(5, 3, { author: 'Petya Petrov' }) );
 console.log('getPhotoPosts(5, 3, { author: \'WhatIslove BabyDontHurtovich\' }):'); 
 console.log( postModule.getPhotoPosts(5, 3, { author: 'WhatIslove BabyDontHurtovich' }) ); 
 
-console.log('getPhotoPosts(5, 3, { person: \'Petya Petrov\' }):'); 
-console.log( postModule.getPhotoPosts(5, 3, { person: 'Petya Petrov' }) ); 
+/*console.log('getPhotoPosts(5, 3, { person: \'Petya Petrov\' }):'); 
+console.log( postModule.getPhotoPosts(5, 3, { person: 'Petya Petrov' }) ); */2
 
 console.log('getPhotoPosts(5, 3, \'object\'):'); 
 console.log( postModule.getPhotoPosts(5, 3, 'object') ); 
@@ -341,8 +339,8 @@ console.log( postModule.getPhotoPosts(5, 3, 'object') );
 console.log('getPhotoPosts(5, 4, { author: \'WhatIslove BabyDontHurtovich\', hashTags: [\'meme\'] })'); 
 console.log( postModule.getPhotoPosts(5, 4, { author: 'WhatIslove BabyDontHurtovich', hashTags: ['meme'] }) ); 
 
-console.log('getPhotoPosts(5, 6, { createdAt: new Date(\'2019-03-05\') })'); 
-console.log( postModule.getPhotoPosts(5, 6, { createdAt: new Date('2019-03-05') }) );
+console.log('getPhotoPosts(5, 6, { createdAt: new Date(\'2019-03-05T00:00\') })'); 
+console.log( postModule.getPhotoPosts(5, 6, { createdAt: new Date('2019-03-05T00:00') }) );
 
 console.log('---------------'); 
 console.log('\nchecking getPhotoPost(id: string) function:'); 
@@ -381,18 +379,18 @@ id: '21',
 description: 'this is an example for adding this post into the array', 
 createdAt: new Date('2019-03-09T22:34:00'), 
 author: 'shpillie-willie', 
-photoLink: 'images/willie.jpg', 
+photoLink: 'images/smoothOpening.jpg', 
 hashTags: ['sausage', 'bignlong'], 
-likes: ['hello', 'willie'], 
+reting:322, 
 }; 
 console.log('addPhotoPost({' 
 + 'id: \'21\',' 
 + 'description: \'this is an example for adding this post into the array\',' 
-+ 'createdAt: new Date(\'2019-03-09T22:34:00\'),' 
++ 'createdAt: new Date(\'2019-03-05T00:00\'),' 
 + 'author: \'shpillie-willie\',' 
-+ 'photoLink: \'images/willie.jpg\',' 
-+ 'hashTags: [\'sausage\', \'bignlong\'],' 
-+ 'likes: [\'hello\', \'willie\'],' 
++ 'photoLink: \'images/smoothOpening.jpg\',' 
++ 'hashTags: [\'mem\'],' 
++ 'rating: 322;' 
 + '}\'):'); 
 console.log( postModule.addPhotoPost(post) ); 
 
