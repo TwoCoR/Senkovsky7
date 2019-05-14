@@ -129,7 +129,7 @@ class PostList {
     }
 }
 let postes = new PostList(photoPosts);
-
+/*
 
 console.log('checking \'getPage(start: number, count: number, filter: object)\' function:'); 
 
@@ -153,9 +153,6 @@ console.log( postes.getPage(5, 3, { author: 'Petya Petrov' }) );
 
 console.log('getPage(5, 3, { author: \'WhatIslove BabyDontHurtovich\' }):'); 
 console.log( postes.getPage(5, 3, { author: 'WhatIslove BabyDontHurtovich' }) ); 
-
-/*console.log('getPhotoPosts(5, 3, { person: \'Petya Petrov\' }):'); 
-console.log( postModule.getPhotoPosts(5, 3, { person: 'Petya Petrov' }) ); */2
 
 console.log('getPage(5, 3, \'object\'):'); 
 console.log( postes.getPage(5, 3, 'object') ); 
@@ -204,7 +201,7 @@ description: 'this is an example for adding this post into the array',
 createdAt: new Date('2019-03-09T22:34:00'), 
 author: 'shpillie-willie', 
 photoLink: 'images/smoothOpening.jpg', 
-hashTags: ['sausage', 'bignlong'], 
+hashtags: ['sausage', 'bignlong'], 
 rating:322, 
 }; 
 console.log('add({' 
@@ -329,4 +326,4 @@ let postArrayFake = [
 console.log('addAll with fake post');
 console.log(postes.addAll(postArrayFake));
 
-console.log(photoPosts);
+console.log(photoPosts);*/

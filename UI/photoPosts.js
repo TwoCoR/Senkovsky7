@@ -115,7 +115,7 @@ let photoPosts = [
 		createdAt: new Date ('2019-03-05T00:00'),
 		hashtags:['meme'],
 		author: 'WhatIslove BabyDontHurtovich',
-		photoLink: 'images/skekspire.jpg',
+		photoLink: 'images/shekspire.jpg',
 		rating:1092,
 	},
 	{
@@ -149,6 +149,7 @@ let photoPosts = [
 		id: '17',
 		description: 'Great result',
 		createdAt: new Date ('2019-03-05T00:00'),
+		hashtags:[],
 		author: 'WhatIslove BabyDontHurtovich',
 		photoLink: 'images/holdmybeer.jpg',
 		rating:918,
